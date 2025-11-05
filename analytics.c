@@ -1,3 +1,6 @@
+// Developer: [Member 3 Name]
+// Responsibility: Search and reports
+
 #include "finance_tracker.h"
 
 void search_category(FinanceManager *manager, const char *category) {

@@ -1,3 +1,6 @@
+// Developer: [Member 3 Name] 
+// Responsibility: Main program and menu
+
 #include "finance_tracker.h"
 
 void show_menu() {

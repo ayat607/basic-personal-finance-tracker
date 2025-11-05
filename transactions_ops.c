@@ -1,4 +1,6 @@
 #include "finance_tracker.h"
+// Developer: [Member 2 Name]  
+// Responsibility: Add and display transactions
 
 void add_transaction(FinanceManager *manager) {
     if (manager->count >= manager->capacity) {

@@ -1,3 +1,6 @@
+// Developer: Ayat
+// Responsibility: File saving and loading
+
 #include "finance_tracker.h"
 
 void init_manager(FinanceManager *manager) {
