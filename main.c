@@ -1,4 +1,4 @@
-// Developer: [Member 3 Name] 
+// Developer: Tanu
 // Responsibility: Main program and menu
 
 #include "fin_tracker.h"

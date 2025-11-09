@@ -1,4 +1,4 @@
-// Developer: [Member 2 Name]  
+// Developer: Anu
 // Responsibility: Add and display transactions
 
 #include "fin_tracker.h"
