@@ -34,7 +34,7 @@ int main(){
                 printf("Enter month(YYYY-MM): "); scanf("%s",input);
                 monthly_report(&manager, input); break;
             case 5: save_data(&manager, "finance.dat"); break;
-            case 6: load_data(&manager, "financedat"); break;
+            case 6: load_data(&manager, "finance.dat"); break;
             case 7: printf("Goodbye\n"); break;
             default: printf("Invalid choice.\n");
         }
